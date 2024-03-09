@@ -1,6 +1,6 @@
 /*Given a linked list and an integer N, the task is to delete the Nth node from the end of the given linked list.*/
 /*The most intitutive way to solve this problem is to find lenght of linked list(K) in one pass. In next pass then find (k-N+1) th node from the
-beginning which corresponds to N th node from begining /*
+beginning which corresponds to N th node from begining */
 
 Node* removeKthNode(Node* head, int K)
 {
